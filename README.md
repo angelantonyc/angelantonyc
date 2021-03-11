@@ -1,7 +1,7 @@
 ### Hi there 
 
 ## I am Angel Antony, a junior web developer..
-[Here is my portfolio](https://angelantonyc.github.io/portfolio/)
+[Here is my portfolio: https://angelantonyc.github.io/portfolio/](https://angelantonyc.github.io/portfolio/)
 
 
 
